@@ -20,7 +20,7 @@ def score_game(predict) -> int:
 
     count_ls = []
     #np.random.seed(1)  # фиксируем сид для воспроизводимости
-    random_array = np.random.randint(1, 101, size=(100))  # загадали список чисел
+    random_array = np.random.randint(1, 101, size=(1000))  
     for number in random_array:
         count_ls.append(predict(number))
     score = int(np.mean(count_ls))
@@ -29,6 +29,6 @@ def score_game(predict) -> int:
 
 
 if __name__ == "__main__":
-    # RUN
+    
     score_game(predict)
 
