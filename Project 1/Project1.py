@@ -19,7 +19,7 @@ def predict(number= np.random.randint(1, 101)) -> int:
 def score_game(predict) -> int:
 
     count_ls = []
-    #np.random.seed(1)  # фиксируем сид для воспроизводимости
+   
     random_array = np.random.randint(1, 101, size=(1000))  
     for number in random_array:
         count_ls.append(predict(number))
