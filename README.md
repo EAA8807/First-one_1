@@ -9,6 +9,6 @@
 [Анализ вакансий на hh.ru (SQL)](https://github.com/EAA8807/First-one_1/tree/main/Project%203)
 
 **Проект 4**
-[Предсказание рейтинга на booking](https://github.com/EAA8807/First-one_1/tree/main/Project%204)
+[Прогнозирование рейтинга отеля на booking](https://github.com/EAA8807/First-one_1/tree/main/Project%204)
 
 [Работа с графическими библиотеками](https://github.com/EAA8807/First-one_1/tree/main/types%20of%20visualization)
