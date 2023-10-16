@@ -14,5 +14,5 @@
 **Другие проекты**
 [Работа с графическими библиотеками](https://github.com/EAA8807/First-one_1/tree/main/types%20of%20visualization)
 
-[Применение статистических тестов]([https://github.com/EAA8807/First-one_1/tree/main/types%20of%20visualization](https://github.com/EAA8807/First-one_1/blob/main/Stat%20tests.ipynb)https://github.com/EAA8807/First-one_1/blob/main/Stat%20tests.ipynb)
+[Применение статистических тестов](https://github.com/EAA8807/First-one_1/tree/main/stat%20tests)
 
