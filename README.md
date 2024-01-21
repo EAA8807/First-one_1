@@ -15,3 +15,7 @@
 
 [Применение статистических тестов](https://github.com/EAA8807/First-one_1/tree/main/stat%20tests)
 
+[Модель регрессии](https://github.com/EAA8807/First-one_1/blob/main/Regression.ipynb)
+
+
+
