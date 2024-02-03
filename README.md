@@ -19,5 +19,5 @@
 
 [Регрессия](https://github.com/EAA8807/First-one_1/blob/main/Regression.ipynb)
 
-[Классификаиця](https://github.com/EAA8807/First-one_1/blob/main/Regression.ipynb)
+[Классификаиця](https://github.com/EAA8807/First-one_1/blob/main/Classification.ipynb)
 
