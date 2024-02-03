@@ -11,7 +11,7 @@
 
 
 
-> **Другие работы:**
+# **Другие работы:**
 
 [Работа с графическими библиотеками](https://github.com/EAA8807/First-one_1/tree/main/types%20of%20visualization)
 
