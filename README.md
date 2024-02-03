@@ -9,6 +9,8 @@
 **Проект 4**
 [Прогнозирование рейтинга отеля на booking](https://github.com/EAA8807/First-one_1/tree/main/Project%204)
 
+
+
 **Другие работы:**
 
 [Работа с графическими библиотеками](https://github.com/EAA8807/First-one_1/tree/main/types%20of%20visualization)
